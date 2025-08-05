@@ -130,6 +130,9 @@ Or if you're on a different machine in the same network, use your IP:
 
 http://<your-local-ip>:8080
 
+Note : if this dont work run 
+cp ~/myproject/docs/health_report.txt ~/myproject/web/index.html
+then reload on the page.
 
 Requirements
 
